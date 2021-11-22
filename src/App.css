@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  background-color: #015c50;
+  color: #ffffff;
+  overflow-x: hidden;
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+
+h1, h4 {
+  margin: .5em;
+}
+h4{
+  color: rgb(221, 221, 221);
+}
+button{
+  margin-top: 20px;
+}
+img{
+  border-radius: 7px;
+}
